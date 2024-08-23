@@ -16,3 +16,5 @@ This is a simple physics simulator using the LÖVE framework. It simulates balls
 - download the files from this repo
 - open the main.lua file in vscode
 - press alt + l and the game starts
+
+  ![](screenshots.JPG)
